@@ -1,0 +1,1 @@
+CWD_PATH = 'C:\\Users\\wowens\\Anaconda3\\envs\\tensorflow\\models\\research'
